@@ -1,0 +1,4 @@
+node_modules
+storage/profileImages
+storage/images
+.env
